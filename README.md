@@ -17,6 +17,6 @@
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)  
 
 📊 **Statistiche GitHub:**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessiocammarata&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alessiocammarata&theme=dark)  
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=alessiocammarata&theme=darkhub&no-bg=true&no-frame=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessiocammarata&layout=compact&theme=dark)
