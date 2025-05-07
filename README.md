@@ -1,7 +1,10 @@
 # 👋 Ciao! Sono Alessio Cammarata
 
-👨‍💻 Studente di ingegneria informatica presso il politecnico di torino 
-🎯 Mi piace costruire progetti utili, puliti e ben documentati.
+📚 **Studente di ingegneria informatica** presso il Politecnico di Torino
+
+🔥 **Sono appassionato di automazione e tecnologia**, con un forte interesse per l'integrazione e la comunicazione tra sistemi informatici.
+
+🎯 **Collaboratore attivo presso** [SquadraCorse Driverless](https://link-all-organizzazione.com)
 
 ## 🌟 Progetti recenti
 
