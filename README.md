@@ -4,11 +4,13 @@
 
 🔥 **Sono appassionato di automazione e tecnologia**, con un forte interesse per l'integrazione e la comunicazione tra sistemi informatici.
 
-🎯 **Collaboratore attivo presso** [SquadraCorse Driverless](https://link-all-organizzazione.com)
+🎯 **Collaboratore attivo presso** [SquadraCorse Driverless](https://github.com/squadracorsedriverless)
 
 ## 🌟 Progetti recenti
 
-🔗 [TrainTrack Manager](https://github.com/tuo-username/projectone) — Applicativo per la gestione di un plastico ferromodellistico 
+🔗 [TrainTrack Manager](https://github.com/AlessioCammarata/TrainTrack-Manager) — Applicativo per la gestione di un plastico ferromodellistico
+
+🔗 [poli_notes](https://github.com/AlessioCammarata/poli_notes) — Appunti presi in università
 
 ## 📫 Contattami
 
