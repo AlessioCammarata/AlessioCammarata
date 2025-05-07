@@ -9,5 +9,5 @@
 
 ## 📫 Contattami
 
-- LinkedIn: [tuo profilo](https://linkedin.com/in/alessio-cammarata-44a315303)
-- Email: [alessiocammarata42@gmail.com](alessiocammarata42@gmail.com)
+- LinkedIn: [Alessio Cammarata](https://linkedin.com/in/alessio-cammarata-44a315303)
+- Email: [alessiocammarata42@gmail.com](mailto:alessiocammarata42@gmail.com)
