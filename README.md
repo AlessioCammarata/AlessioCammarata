@@ -1,7 +1,11 @@
-# Hello there, I'm Alessio Cammarata  
+<h2 align="center" size="40px">
+Hello there, I'm Alessio Cammarata
+</h2>
 
+<p align="center">
 Computer Engineering Student | System Integration & Automation Enthusiast  
-
+<p align="center">
+  
 ---
 
 ## 🇮🇹 About Me  
