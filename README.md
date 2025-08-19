@@ -1,18 +1,23 @@
-# 👋 Ciao! Sono Alessio Cammarata
+# Hello there! I'm Alessio Cammarata
 
-📚 **Studente di ingegneria informatica** presso il Politecnico di Torino
+**Computer engineering student** at Politecnico di Torino  
 
-🔥 **Sono appassionato di automazione e tecnologia**, con un forte interesse per l'integrazione e la comunicazione tra sistemi informatici.
+Interested in automation, technology, and system integration  
 
-🎯 **Collaboratore attivo presso** [SquadraCorse Driverless](https://github.com/squadracorsedriverless)
+Currently contributing to [SquadraCorse Driverless](https://github.com/squadracorsedriverless)  
 
-## 🌟 Progetti recenti
+## About me
 
-🔗 [TrainTrack Manager](https://github.com/AlessioCammarata/TrainTrack-Manager) — Applicativo per la gestione di un plastico ferromodellistico
+I enjoy building practical solutions through code and exploring how systems can work together.  
+Outside of tech, I’m into problem-solving challenges, teamwork, and continuous learning.  
 
-🔗 [poli_notes](https://github.com/AlessioCammarata/poli_notes) — Appunti presi in università
+## Projects
 
-## 📫 Contattami
+[TrainTrack Manager](https://github.com/AlessioCammarata/TrainTrack-Manager) — Application for managing a model railway layout  
 
-- LinkedIn: [Alessio Cammarata](https://linkedin.com/in/alessio-cammarata-44a315303)
+[poli_notes](https://github.com/AlessioCammarata/poli_notes) — Notes taken during university courses  
+
+## Contact
+
+- LinkedIn: [Alessio Cammarata](https://linkedin.com/in/alessio-cammarata-44a315303)  
 - Email: [alessiocammarata42@gmail.com](mailto:alessiocammarata42@gmail.com)
