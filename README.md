@@ -10,7 +10,7 @@ Computer Engineering Student | System Integration & Automation Enthusiast
 
 ## 🇮🇹 About Me  
 I’m passionate about automation, technology, and how different systems can communicate and work together.  
-Currently, I’m contributing to [SquadraCorse Driverless](https://github.com/squadracorsedriverless), where I get hands-on experience with real-world engineering challenges.  
+Currently, I’m contributing to [SquadraCorse](https://github.com/squadracorsepolito), where I get hands-on experience with real-world engineering challenges.  
 
 Outside of university, I enjoy experimenting with side projects, solving problems through code, and learning new tools to improve my workflow.  
 
@@ -24,7 +24,7 @@ Outside of university, I enjoy experimenting with side projects, solving problem
 ---
 
 ## 🔧 Tech Stack  
-- Python | C++ | Java  
+- Python | C++ | Java | C
 - Linux | Git | Docker  
 - Embedded Systems & Automation  
 
