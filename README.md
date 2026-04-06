@@ -17,15 +17,15 @@ Outside of university, I enjoy experimenting with side projects, solving problem
 ---
 
 ## 💻 Projects  
-[TrainTrack Manager](https://github.com/AlessioCammarata/TrainTrack-Manager) — Application for managing a model railway layout  
+[TrainTrack Manager](https://github.com/AlessioCammarata/TrainTrack-Manager-Docs) — Application for managing a model railway layout  
 
 [poli_notes](https://github.com/AlessioCammarata/poli_notes) — Notes taken during university courses  
 
 ---
 
 ## 🔧 Tech Stack  
-- Python | C++ | Java | C
-- Linux | Git | Docker  
+- C | Python | C++ | Java
+- Linux | Git | Docker | ROS2 
 - Embedded Systems & Automation  
 
 ---
